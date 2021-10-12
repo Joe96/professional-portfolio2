@@ -1,13 +1,21 @@
-h2, h5 {
-    margin-left: 10px;
+h1, p {
+    color: #FFFFFF;
 }
 
-.footer {
+.navbar, .jumbotron, #contacts {
+    background-color: #191919;
+}
+.navbar {
+    position: fixed;
+}
+
+.projects{
     position: relative;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: red;
-    color: white;
-    text-align: center;
+    height: 50vh;
+    background-color: black; 
+    margin: 1px;
+}
+
+main div h1 {
+    color: #000000;
 }
