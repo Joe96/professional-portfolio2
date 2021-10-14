@@ -20,3 +20,41 @@ h1, p {
 main div h1 {
     color: #000000;
 }
+
+#weather-app {
+    background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/01/weather-app.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#geography-test {
+    background-image: url("https://freepngimg.com/download/globe/41479-2-geography-png-image-high-quality.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#password-generator {
+    background-image: url("https://us.123rf.com/450wm/vinnstock/vinnstock1901/vinnstock190100010/131662254-secret-password-with-highlight-color-written-on-yellow-paper-note-on-top-of-modern-white-keyboard-wi.jpg?ver=6") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#day-planner {
+    background-image: url("https://thumbs.dreamstime.com/b/self-isolation-written-every-day-schedule-coronavirus-outbreak-pandemic-concept-close-up-179973547.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#translator {
+    background-image: url("https://frenchly.us/wp-content/uploads/sites/9/2018/12/google-translate-773x420.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#pong {
+    background-image: url("https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2021/01/video-game-pic.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
