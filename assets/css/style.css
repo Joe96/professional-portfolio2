@@ -8,6 +8,7 @@ h1, p {
 }
 .navbar {
     position: fixed;
+    z-index:1;
 }
 
 .projects{
@@ -19,6 +20,20 @@ h1, p {
 
 main div h1 {
     color: #000000;
+}
+
+p a {
+    font-size: x-small;
+    background-color: #191919;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 25px;
 }
 
 #weather-app {
