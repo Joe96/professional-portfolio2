@@ -22,20 +22,6 @@ main div h1 {
     color: #000000;
 }
 
-p a {
-    font-size: x-small;
-    background-color: #191919;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    margin-top: 5px;
-    margin-left: 10px;
-    margin-right: 10px;
-    border-radius: 25px;
-}
-
 #weather-app {
     background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/01/weather-app.png") ;
     background-repeat: no-repeat;
@@ -73,3 +59,6 @@ p a {
     background-size: cover;
 }
 
+#profilePic {
+    border-radius: 250px;
+}
